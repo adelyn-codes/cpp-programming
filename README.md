@@ -19,6 +19,9 @@ This repository contains the programming lessons I have learned as a first-year 
 11. Multiple Choices and Conditions
 12. Username and Password
 13. Age Choices
+14. Last Day of February using OR (`||`)
+15. February Last Day using AND (`&&`) and OR (`||`)
+16. Vowel or Consonant using OR (`||`)
 
 ## 💻 Programming Language
 
